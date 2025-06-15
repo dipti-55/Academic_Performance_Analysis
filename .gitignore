@@ -1,1 +1,5 @@
 venv/
+Academic_Performance_Analysis.egg-info/
+script.py
+notebook/
+logs/
